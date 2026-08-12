@@ -30,8 +30,6 @@ ist3134-bigdata-accidents/
 │   ├── by_state.csv
 │   ├── by_hour.csv
 │   └── by_weather.csv
-└── sample_data/
-    └── US_Accidents_sample.csv
 ```
 
 ## Approach
@@ -87,7 +85,3 @@ While total pipeline runtime was comparable between Spark and pandas at this dat
 - **California** had the highest accident count (1,701,655), followed by Florida and Texas.
 - **"Fair" weather** was associated with the highest raw accident count (2,560,802) — likely reflecting exposure (most driving happens in fair weather) rather than risk per trip.
 - Accident counts were highest in early morning hours (e.g., hour 0: 108,901 accidents).
-
-## Individual Reflections
-
-See `report/` for the full written report, including individual reflections from each team member.
