@@ -14,7 +14,7 @@ Link: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 ~7.7 million accident records across the United States, including severity, location, time, weather conditions, and road features.
 
-> **Note on hosting:** The full dataset (several GB) exceeds GitHub's file size limits and is therefore not hosted directly in this repository. Please download it from the Kaggle link above to reproduce this analysis. A small sample (`sample_data/US_Accidents_sample.csv`, 200 rows) is included in this repo for quick inspection of the schema.
+> **Note on hosting:** The full dataset (several GB) exceeds GitHub's file size limits and is therefore not hosted directly in this repository. Please download it from the Kaggle link above to reproduce this analysis.
 
 ## Repository Structure
 
