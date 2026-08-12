@@ -3,16 +3,10 @@ IST3134 Big Data Project — US Accidents Analysis (pandas comparison)
 
 Mirrors analysis.py (the PySpark/EMR version) exactly: same cleaning steps,
 same three aggregations, same timing methodology — so the results are
-directly comparable in your report.
+directly comparable.
 
 Usage:
     python analysis_pandas.py --input US_Accidents_March23.csv --output ./pandas_output/
-
-Run this on the SAME dataset (or a documented same-size subset if your
-machine can't handle the full 7.7M rows) as the Spark version, so the
-comparison is apples-to-apples. If you must use a smaller slice, run BOTH
-the Spark and pandas scripts on that same slice size and note it clearly
-in your report.
 """
 
 import argparse
