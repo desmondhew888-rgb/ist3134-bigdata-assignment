@@ -1,6 +1,6 @@
 # Big Data vs. Traditional Analytics: A Performance Comparison Using US Traffic Accident Data
 
-**Module:** IST3134 — Big Data Analytics in the Cloud
+**Course:** IST3134 — Big Data Analytics in the Cloud
 **Team members:** [Hew Zhen Wei], [Koo Yu Jian]
 
 ## Problem Statement
