@@ -25,11 +25,10 @@ ist3134-bigdata-accidents/
 │   ├── analysis.py            # PySpark version — run as an AWS EMR Step
 │   └── analysis_pandas.py     # pandas comparison version — run locally
 ├── results/
-│   ├── spark_timings.csv
-│   ├── pandas_timings.csv
+│   ├── timings.csv
 │   ├── by_state.csv
 │   ├── by_hour.csv
-│   └── by_weather.csv
+├── └── by_weather.csv
 ```
 
 ## Approach
